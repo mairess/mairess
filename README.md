@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mairess
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning TypeScript
 - 🔗 Reach me on <a href="https://www.linkedin.com/in/maires-r-de-souza-104608272/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mairess-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
