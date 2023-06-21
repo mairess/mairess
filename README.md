@@ -7,6 +7,13 @@
 - 🔗 Reach me on <a href="https://www.linkedin.com/in/maires-r-de-souza-104608272/" target="_blank"><img align="center" src="https://img.shields.io/badge/-mairess-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 - <a href="mailto:trabalho.maires@gmail.com"><img src="https://img.shields.io/badge/Email-trabalho.maires@gmail.com-white"></a>
 
+### Techs
+![HTML](https://img.shields.io/badge/HTML-E34F26?&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?&logo=css3&logoColor=white&color=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-blue?&logo=node.js&logoColor=white&color=509941)
+![Linux](https://img.shields.io/badge/Linux-E34F26?&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E34F26?&logo=git&logoColor=white)
 
 ---
 <p align='center'>
