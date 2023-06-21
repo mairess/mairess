@@ -14,6 +14,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-blue?&logo=node.js&logoColor=white&color=509941)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E34F26?&logo=git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?&logo=slack&logoColor=white)
 
 ---
 <p align='center'>
