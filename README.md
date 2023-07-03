@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Unit Testing JavaScript with ![Jest](	https://img.shields.io/badge/Jest-323330?&logo=Jest&logoColor=white)
+- 🌱 I’m currently learning JS Unit Testing with ![Jest](	https://img.shields.io/badge/Jest-323330?&logo=Jest&logoColor=white)
 - 🔗 Reach me on <a href="https://www.linkedin.com/in/maires-r-de-souza-104608272/" target="_blank"><img align="center" src="https://img.shields.io/badge/-mairess-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 - <a href="mailto:trabalho.maires@gmail.com"><img src="https://img.shields.io/badge/Email-trabalho.maires@gmail.com-white"></a>
 
