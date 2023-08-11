@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React and Typescript
+- 🌱 I’m currently learning React component and Props
 - 🔗 Reach me on <a href="https://www.linkedin.com/in/maires-r-de-souza-104608272/" target="_blank"><img align="center" src="https://img.shields.io/badge/-mairess-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 
 
