@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Managing and Updating Application State with Redux
+- 🌱 I’m currently learning Tests in React-Redux
 - 🔗 Reach me on <a href="https://www.linkedin.com/in/maires-r-de-souza-104608272/" target="_blank"><img align="center" src="https://img.shields.io/badge/-mairess-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 
 
