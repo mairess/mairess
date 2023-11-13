@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Class Components, Context API and Custom Hooks
+- 🌱 I’m currently learning <a><img align="center" src="https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&color=blue"/><a/>
 - 🔗 Reach me on <a href="https://www.linkedin.com/in/maires-r-de-souza-104608272/" target="_blank"><img align="center" src="https://img.shields.io/badge/-mairess-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 
 
