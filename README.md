@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning <a><img align="center" src="https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&color=blue"/><a/>
+- 🌱 I’m currently learning <a><img align="center" src="https://img.shields.io/badge/Node.js-1?logo=node.js&logoColor=white"/><a/>
 - 🔗 Reach me on <a href="https://www.linkedin.com/in/maires-r-de-souza-104608272/" target="_blank"><img align="center" src="https://img.shields.io/badge/-mairess-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 
 
@@ -14,6 +14,7 @@
 ![Jest](	https://img.shields.io/badge/Jest-323330?&logo=Jest&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E34F26?&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&color=blue)
 
 ---
 <p align='center'>
