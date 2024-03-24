@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Software Architecture
+- 🌱 I’m currently learning _Python_
 - 🔗 Reach me on <a href="https://www.linkedin.com/in/mairess/" target="_blank"><img align="center" src="https://img.shields.io/badge/-mairess-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 
 
