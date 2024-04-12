@@ -107,16 +107,17 @@ target="_blank">
 <br>
 
 <div align="center">
-  <img align="center" 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairess&layout=compact&theme=dracula&hide_border=false"
     alt="github-readme-stats"
-    height="155"
-    />
- <img align="center" 
-   src="https://streak-stats.demolab.com?user=mairess&theme=dracula"
-   alt="streak graph"
-   height="155"
-   />
+    height="195"/>
+  </a> 
+  <a href="https://git.io/streak-stats">
+    <img align="center"
+    src="https://streak-stats.demolab.com?user=mairess&theme=dracula"
+    alt="streak graph"/>
+  </a>
 </div>
 
 <br>
