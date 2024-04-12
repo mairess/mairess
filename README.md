@@ -68,35 +68,35 @@ target="_blank">
 
 <div align="center">
  <div>
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50"/>&nbsp;
-  <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="50"/>&nbsp;
-  <img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" height="50">&nbsp;
-  <img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="50"/>&nbsp;
-  <img alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="50"/>&nbsp;
-  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50"/>&nbsp;
-  <img alt="Styled components" src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" height="50"/>&nbsp;
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32"/>&nbsp;
+  <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="32"/>&nbsp;
+  <img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" height="32">&nbsp;
+  <img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="32"/>&nbsp;
+  <img alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="32"/>&nbsp;
+  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="32"/>&nbsp;
+  <img alt="Styled components" src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" height="32"/>&nbsp;
  </div>
 
  <br>
 
  <div>
-  <img alt="Node.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50"/>&nbsp;
-  <img alt="Express" src="https://skillicons.dev/icons?i=express&theme=dark" height="50"/>&nbsp;
-  <img alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="50"/>&nbsp;
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50"/>&nbsp;
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="50"/>&nbsp;
-  <img alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" height="50"/>&nbsp;
-  <img alt="Chai.JS" src="http://chaijs.com/img/chai-logo.png" height="50">&nbsp;
-  <img alt="Sinon.JS" src="https://sinonjs.org/assets/images/logo.png" height="50">&nbsp;
+  <img alt="Node.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="32"/>&nbsp;
+  <img alt="Express" src="https://skillicons.dev/icons?i=express&theme=dark" height="32"/>&nbsp;
+  <img alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="32"/>&nbsp;
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="32"/>&nbsp;
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="32"/>&nbsp;
+  <img alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" height="32"/>&nbsp;
+  <img alt="Chai.JS" src="http://chaijs.com/img/chai-logo.png" height="32">&nbsp;
+  <img alt="Sinon.JS" src="https://sinonjs.org/assets/images/logo.png" height="32">&nbsp;
  </div>
 
  <br>
 
  <div>
-  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50"/>&nbsp;
-  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50"/>&nbsp;
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50"/>&nbsp;
-  <img alt="ESlinst" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" height="50"/>&nbsp;
+  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32"/>&nbsp;
+  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32"/>&nbsp;
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32"/>&nbsp;
+  <img alt="ESlinst" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" height="32"/>&nbsp;
  </div>
 </div>
 
