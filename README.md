@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&background=FFFFFF00&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+Welcome+to+my+profile!;I+am+Maires+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+from+🇧🇷">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&background=FFFFFF00&vCenter=true&width=600&height=60&lines=Hey+%F0%9F%91%8B+Welcome+to+my+profile!;I+am+Maires+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB">
   </a>
 </div>
 
@@ -68,6 +68,7 @@ target="_blank">
 
 <div align="center">
  <div>
+  <img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32"/>&nbsp;
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32"/>&nbsp;
   <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="32"/>&nbsp;
   <img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" height="32">&nbsp;
