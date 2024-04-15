@@ -13,7 +13,7 @@ class Person {
   age: number
 
   constructor() {
-    this.name = "Mares Souza";
+    this.name = "Maires Souza";
     this.age = new Date().getFullYear() - 1991;
   }
 }
