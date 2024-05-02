@@ -4,7 +4,7 @@
   </a>
 </div>
 
-##
+<!---##
 
 ```typescript
 
@@ -31,7 +31,7 @@ const me = new Developer();
 
 ```
 
-##
+##--->
 
 <br>
 
@@ -65,43 +65,101 @@ target="_blank">
 ![HTML](https://img.shields.io/badge/chai-E34F26?&logo=chai&logoColor=white) -->
 
 <br>
-
-<div align="center">
- <div>
-  <img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32"/>&nbsp;
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32"/>&nbsp;
-  <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="32"/>&nbsp;
-  <img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" height="32">&nbsp;
-  <img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="32"/>&nbsp;
-  <img alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="32"/>&nbsp;
-  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="32"/>&nbsp;
-  <img alt="Styled components" src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" height="32"/>&nbsp;
- </div>
+<!-- This table is inspired in https://github.com/thiagobraddock/thiagobraddock -->
+  <table align="center" width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Typescript</strong></span><br>
+            <img alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32"/>&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>React</React></span><br>
+            <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32"/>&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Redux</strong></span><br>
+            <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="32"/>&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>RTL</strong></span><br>
+            <img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" height="32">&nbsp;
+            </td>
+        </tr>
+        <tr valign="top">
+          <td width="80px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="32"/>&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Vitest</strong></span><br>
+            <img alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="32"/>&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Bootstrap</strong></span><br>
+            <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="32"/>&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Styled</strong></span><br>
+            <img alt="Styled components" src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" height="32"/>&nbsp;
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Node</strong></span><br>
+            <img alt="Node.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="32"/>&nbsp;
+            <td width="80px" align="center">
+            <span><strong>Express</strong></span><br>
+            <img alt="Express" src="https://skillicons.dev/icons?i=express&theme=dark" height="32"/>&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Sequelize</strong></span><br>
+            <img alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="32"/>&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>MySQL</strong></span><br>
+            <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="32"/>&nbsp;
+            </td>
+        </tr>
+        <tr valing="top">
+          <td width="80px" align="center">
+            <span><strong>Docker</strong></span><br>
+            <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="32"/>&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Mocha</strong></span><br>
+            <img alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" height="32"/>&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Chai</strong></span><br>
+            <img alt="Chai.JS" src="http://chaijs.com/img/chai-logo.png" height="32">&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Sinon</strong></span><br>
+            <img alt="Sinon.JS" src="https://sinonjs.org/assets/images/logo.png" height="32">&nbsp;
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32"/>&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32"/>&nbsp;
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32"/>&nbsp;
+            <td width="80px" align="center">
+            <span><strong>ESlinst</strong></span><br>
+            <img alt="ESlinst" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" height="32"/>&nbsp;
+            </td>
+        </tr>
+    </tbody>
+</table>
 
  <br>
-
- <div>
-  <img alt="Node.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="32"/>&nbsp;
-  <img alt="Express" src="https://skillicons.dev/icons?i=express&theme=dark" height="32"/>&nbsp;
-  <img alt="Sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="32"/>&nbsp;
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="32"/>&nbsp;
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="32"/>&nbsp;
-  <img alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" height="32"/>&nbsp;
-  <img alt="Chai.JS" src="http://chaijs.com/img/chai-logo.png" height="32">&nbsp;
-  <img alt="Sinon.JS" src="https://sinonjs.org/assets/images/logo.png" height="32">&nbsp;
- </div>
-
- <br>
-
- <div>
-  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="32"/>&nbsp;
-  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="32"/>&nbsp;
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32"/>&nbsp;
-  <img alt="ESlinst" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" height="32"/>&nbsp;
- </div>
-</div>
-
-<br>
 
 <h1 align="center">Statistics</h1>
 
@@ -132,10 +190,19 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 
-##
+ <br>
+
+<h1 align="center">Contact</h1>
+
 <br>
+
 <div align="center">
   <a href="mailto:trabalho.maires@gmail.com">
-    <img src="https://img.shields.io/badge/Email-trabalho.maires@gmail.com-white">
+    <img src="https://img.shields.io/badge/Email-trabalho.maires@gmail.com-white" alt="trabalho.maires@gmail.com">
   </a>
+  <br>
+  <a href="https://www.linkedin.com/in/mairess/">
+    <img src="https://img.shields.io/badge/-mairess-05122A?style=flat&logo=linkedin" 
+  alt="linkedin"/>
+</a>
 </div>
