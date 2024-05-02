@@ -66,7 +66,7 @@ target="_blank">
 
 <br>
 <!-- This table is inspired in https://github.com/thiagobraddock/thiagobraddock -->
-  <table align="center" width="320px">
+  <table align="center" width="310px">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
@@ -197,12 +197,12 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/mairess/">
+    <img src="https://img.shields.io/badge/-mairess-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <br>
+  <br>
   <a href="mailto:trabalho.maires@gmail.com">
     <img src="https://img.shields.io/badge/Email-trabalho.maires@gmail.com-white" alt="trabalho.maires@gmail.com">
   </a>
-  <br>
-  <a href="https://www.linkedin.com/in/mairess/">
-    <img src="https://img.shields.io/badge/-mairess-05122A?style=flat&logo=linkedin" 
-  alt="linkedin"/>
-</a>
 </div>
