@@ -38,7 +38,7 @@ const me = new Developer();
 <h1 align="center">About</h1>
 
 - 👀 I’m interested in web development
-- 📚 I’m currently learning **Java**
+- 📚 I’m currently learning **Java and Next**
 - 🔗 Get in touch
 <a
 href="https://www.linkedin.com/in/mairess/"
